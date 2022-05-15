@@ -10,6 +10,8 @@ Esta expresion de limite tiene una definicion mas rica y profunda:
 
 \forall \epsilon>0 \exists \delta>0 (\forall x\in \mathbb{R} \vert x-a\vert <\delta \Longrightarrow \vert f(x)-f(a)\vert<\epsilon)
 
+Esta definicion nos habla sobre como el acercamiento de una funcion a un valor cuando la variable independiente se acerca a a.
+
 Normalmente no sabemos si al menos existe dicho numero, pero si la funcion es continua podemos decir que:
 
 \lim_{x\to a} f(x)=f(a)
