@@ -8,4 +8,8 @@ Normalmente no sabemos si al menos existe dicho numero, pero si la funcion es co
 
 \lim_{x\to a} f(x)=f(a)
 
-Ahora me gustaría explicar la suma
+Ahora me gustaría explicar la suma. La suma tiene la siguiente forma:
+
+\begin{equation}
+\sum_{i=1}^n f(i)
+\end{equation}
