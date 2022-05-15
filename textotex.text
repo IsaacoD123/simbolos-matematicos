@@ -1,0 +1,10 @@
+Hola, en este documento voy a explicar algunas expresiones de latex.
+
+La primera expresion que quiero explicar es el limite, tiene la siguiente forma:
+
+\lim_{x\to a} f(x)
+
+Normalmente no sabemos si al menos existe dicho numero, pero si la funcion es continua podemos decir que:
+
+\lim_{x\to a} f(x)=f(a)
+
