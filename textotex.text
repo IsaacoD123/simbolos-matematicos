@@ -15,3 +15,6 @@ Ahora me gustaría explicar la suma. La suma tiene la siguiente forma:
 \begin{equation}
 \sum_{i=1}^n f(i)
 \end{equation}
+
+Las sumas con esta notacion siguen cumpliendo las propiedades de asociatividad y conmutatividad.
+
